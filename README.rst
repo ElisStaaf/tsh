@@ -1,4 +1,4 @@
-TSH: Tuple SHell
+TSH: Turtle SHell
 ================
 Tuple SHell is a minimal shell for linux written in rust! It can do some things,
 and it also includes some colours to brainwash you into thinking:
