@@ -10,7 +10,7 @@ TSH: Turtle SHell
    :alt: Language = Rust
    :target: https://github.com/ElisStaaf/tsh
 
-Tuple SHell is a minimal shell for linux written in rust! It can do some things,
+Turtle SHell is a minimal shell for linux written in rust! It can do some things,
 and it also includes some colours to brainwash you into thinking:
 
     "Wait! Even if I had a terrible experience with this shell,
