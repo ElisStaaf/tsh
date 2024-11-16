@@ -186,7 +186,7 @@ fn main() {
                 }
             }
             Err(e) => {
-                eprintln!("Error: Execution of command \"{}\" failed", e);
+                eprintln!("Error: {}", e);
                 exit(1);
             }
         }
