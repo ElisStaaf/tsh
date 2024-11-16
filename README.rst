@@ -6,7 +6,7 @@ TSH: Turtle SHell
 .. image:: https://img.shields.io/badge/Version-0.1.0-2dd245?style=for-the-badge
    :alt: Version = 0.1.0
    :target: https://github.com/ElisStaaf/tsh
-.. image:: https://img.shields.io/badge/Language-Rust-grey?logo=c&logoColor=white&labelColor=de4621&style=for-the-badge
+.. image:: https://img.shields.io/badge/Language-Rust-grey?logo=rust&logoColor=white&labelColor=de4621&style=for-the-badge
    :alt: Language = Rust
    :target: https://github.com/ElisStaaf/tsh
 
