@@ -120,7 +120,7 @@ fn main() {
         stdout.reset().unwrap();
 
         stdout.set_color(&green).unwrap();
-        write!(stdout, "{:?} $ ", dir_str).unwrap();
+        write!(stdout, "{:?} % ", dir_str).unwrap();
         stdout.reset().unwrap();
 
         let mut command_input = String::new();
