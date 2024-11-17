@@ -1,0 +1,19 @@
+TSH: Turtle SHell
+=================
+Turtle SHell is a minimal shell for linux written in rust! It can do some things,
+and it also includes some colours to brainwash you into thinking:
+
+    "Wait! Even if I had a terrible experience with this shell,
+    it *does* include pretty colours!"
+
+Requirements
+------------
+* https://www.rust-lang.org/tools/install
+* https://doc.rust-lang.org/cargo/getting-started/installation.html
+* https://git-scm.com/downloads
+
+Installation
+------------
+   git clone https://github.com/ElisStaaf/tsh
+   cd tsh
+   ./install.sh
