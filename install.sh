@@ -14,7 +14,7 @@ cd "$INSTALL_DIR"
 echo "Compiling the project..."
 cargo build --release
 
-BIN_PATH="/usr/bin/tsh"
+BIN_PATH="/usr/local/bin/tsh"
 echo "Installing the executable to $BIN_PATH..."
 sudo mv target/release/tsh  "$BIN_PATH"
 
